@@ -1,0 +1,24 @@
+.DS_Store
+
+# Ignore downloaded datasets
+embeddings/data/
+embeddings/text8.zip
+
+# Ignore notmnist datasets
+intro-to-tensorflow/notMNIST.pickle
+intro-to-tensorflow/notMNIST_test.zip
+intro-to-tensorflow/notMNIST_train.zip
+
+*.p
+*.tar.gz
+
+image-classification/__pycache__/
+image-classification/cifar-10-batches-py/
+weight-initialization/.ipynb_checkpoints/
+weight-initialization/__pycache__/
+
+*.csv
+
+image-classification/image_classification.data-00000-of-00001
+image-classification/image_classification.index
+image-classification/image_classification.meta
