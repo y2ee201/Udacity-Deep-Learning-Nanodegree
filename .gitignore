@@ -22,3 +22,6 @@ weight-initialization/__pycache__/
 image-classification/image_classification.data-00000-of-00001
 image-classification/image_classification.index
 image-classification/image_classification.meta
+
+*.index
+*.meta
